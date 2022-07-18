@@ -38,9 +38,7 @@ Repositório a fim de testar candidatos para vaga de Dev Flutter Jr na Empresa h
                 - Use a Criatividade e implemente funcionalidades novas no App de acordo com o Model da API
                 
         - O App deve usar como state management       
-                - setState
-                - changeNotifier
-                - rxnotifier (usar RxBuilder)
+                - Padrão Bloc (Não o package Bloc)
                 
          - O App deve seguir a seguinte "arquitetura"
                 - Padrão MVC
