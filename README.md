@@ -41,7 +41,7 @@ Repositório a fim de testar candidatos para vaga de Dev Flutter Jr na Empresa h
                 - Padrão Bloc (Não o package Bloc)
                 
          - O App deve seguir a seguinte "arquitetura"
-                - Padrão MVC
+                - Padrão MVC (model, view, controller)
                     - Podendo ser separado da seguinte forma:
                         - pages
                         - controller
