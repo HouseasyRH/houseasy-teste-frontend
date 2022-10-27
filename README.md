@@ -47,5 +47,6 @@ Repositório a fim de testar candidatos para vaga de Dev Flutter Jr na Empresa h
    ## Final
                 
     - Subir o repositório no seu Github e enviar o link com o assunto: Teste Dev. Flutter para Carlos Henrique em carlos.souza@houseasy.net
+     e no e-mail, informar do que se trata sua aplicação, com um breve resumo.
         
         
