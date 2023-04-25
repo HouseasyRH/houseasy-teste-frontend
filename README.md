@@ -29,12 +29,15 @@ Repositório a fim de testar candidatos para vaga de Dev Flutter Jr na Empresa h
         - Responsivo
         - Usando de maneira adequada os Componentes/Widgets
         - Autenticação de Usuário
+        - Login
+        - Registro
         - Signout
         - Dados de API (qualquer API, use a criatividade)
                 - Implementar funcionalidades
                 - Animações
                                                
-     2 - O App deve seguir uma arquitetura limpa, organizada, como por exemplo um MVC (model, view, controller) (apenas exemplo)
+     2 - O App deve seguir uma arquitetura limpa, organizada.
+                - como por exemplo um MVC (model, view, controller), MVVM, Clean Dart
                                        
                       
      3 - O Código deve estar legível (auto explicativo)
