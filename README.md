@@ -37,7 +37,7 @@ Repositório a fim de testar candidatos para vaga de Dev Flutter Jr na Empresa h
                 - Animações
                                                
      2 - O App deve seguir uma arquitetura limpa, organizada.
-                - como por exemplo um MVC (model, view, controller), MVVM, Clean Dart
+                - MVVM, Clean Dart
                                        
                       
      3 - O Código deve estar legível (auto explicativo)
